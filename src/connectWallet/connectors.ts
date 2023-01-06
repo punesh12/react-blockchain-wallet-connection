@@ -64,11 +64,11 @@ export const connectorsByName: Array<Object> = [
     connector: WalletConnect
   },
   {
-    name: ConnectorNames.walletLink,
+    name: ConnectorNames.WalletLink,
     connector: walletLink
   },
   {
-    name: ConnectorNames.trezor,
+    name: ConnectorNames.Trezor,
     connector: trezor
   }
 ];
