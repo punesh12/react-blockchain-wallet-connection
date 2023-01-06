@@ -1,9 +1,9 @@
 export enum ConnectorNames {
   Metamask = "Metamask",
   WalletConnect = "Wallet Connect",
-  walletLink = "Wallet Link",
-  trezor = "Trezor"
-}
+  WalletLink = "Wallet Link",
+  Trezor = "Trezor"
+};
 export const mainNetworkChainId = {
   ethereum: 1,
   binance: 56,
